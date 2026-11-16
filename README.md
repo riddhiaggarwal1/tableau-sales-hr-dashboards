@@ -5,7 +5,7 @@ Two interactive Tableau dashboards built for my MSc Data Analytics (BSBI, Berlin
 ## HR Workforce Insights Dashboard (`hr_attrition_dashboard.twb`)
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/riddhi.aggarwal5471/viz/HRWorkforceInsights_17948424067070/Dashboard1)**
 
-[HR Workforce Insights Dashboard](hr_dashboard.png)
+![HR Workforce Insights Dashboard](hr_dashboard.png)
 
 
 **Question:** where is the company losing employees, and what does the workforce look like?
