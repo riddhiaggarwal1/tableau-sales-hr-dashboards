@@ -30,6 +30,7 @@ SUM(IF [Attrition] = "Yes" THEN 1 ELSE 0 END) / COUNT([EmployeeNumber])
 **Recommendation:** focus retention efforts on entry-level, lower-paid roles (Sales Representatives and Lab Technicians), for example through pay reviews and clearer progression paths, and keep an eye on overtime.
 
 ## Sales Command Center (`sales_dashboard.twb`)
+**[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/riddhi.aggarwal5471/viz/sales_command-center/SalesCommandCenter)**
 
 ![Sales Command Center dashboard](sales_dashboard.png)
 
